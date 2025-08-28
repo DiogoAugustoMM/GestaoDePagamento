@@ -21,3 +21,12 @@
 | conhecer salario bruto  | |
 | proventos | |
 | valor trabalho/hora |  |
+
+# Pagamento mensal
+
+| Responsabilidades | Colaborações |
+|-------------------|--------------|
+| conhecer valor dos descontos | Funcionario |
+| conhecer valor dos  Beneficios| Beneficios |
+| conhecer valor dos Adicionais | Descontos |
+| conhecer dados funcionarios  | Adicionais |
